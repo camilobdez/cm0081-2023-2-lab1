@@ -1,1 +1,8 @@
-# cm0081-2023-2-lab1
+- Juan Camilo Bermúdez Colorado
+- Luis Alejandro Baena Marín
+- Windows 11 Home, Version	22H2
+- GHC 9.6.2
+- HUnit 1.6.20
+- regex-posix
+- regex-tdfa
+- cabal 3.10.1.0
